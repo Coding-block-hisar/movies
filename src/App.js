@@ -1,10 +1,12 @@
 import './App.css';
 import Movies from './components/Movies';
+ //install react bootstrap
 function App() {
+
   return (
     <>
     
-    //install react bootstrap
+   
      <Movies></Movies>
     
   
