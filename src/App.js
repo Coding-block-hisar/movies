@@ -4,7 +4,7 @@ function App() {
   return (
     <>
     
-    
+    //install react bootstrap
      <Movies></Movies>
     
   
